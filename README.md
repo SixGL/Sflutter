@@ -1,8 +1,7 @@
 # cs_flutter
 
-A new Flutter application.
-
-## Getting Started
+本人学习flutter所有练习demo
+##入门
 
 This project is a starting point for a Flutter application.
 
