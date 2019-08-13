@@ -48,6 +48,12 @@ flutter:
     - images/z.jpg
     - images/like.png
     - images/hy.jpg
+    - images/home_select.png
+    - images/home_unselect.png
+    - images/me_tab_select.png
+    - images/me_tab_unselect.png
+    - images/tax_select.png
+    - images/tax_unselect.png
   # assets:
   #  - images/a_dot_burr.jpeg
   #  - images/a_dot_ham.jpeg

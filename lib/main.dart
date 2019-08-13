@@ -47,11 +47,6 @@ void main() => runApp(MyApp());
  * 路由
  * */
 class MyApp extends StatelessWidget {
-//  final routes = {
-////        '/routeNamedPage':(context)=>RouteNamedPage()  // 不传值
-//    '/routeNamedPage': (context, {arguments}) =>
-//        RouteNamedPage(arguments: arguments) // 可传可不传
-//  };
 
   @override
   Widget build(BuildContext context) {
