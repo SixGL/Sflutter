@@ -36,6 +36,7 @@ class ImagePage extends StatelessWidget {
 
            //圆形图片
 //          child: ClipOval(
+//
 //            child: Image.network(
 //              'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1564635947708&di=ba0fc66e7c59a77d6b6bc60d894efcb8&imgtype=0&src=http%3A%2F%2Fwx1.sinaimg.cn%2Forj360%2F50b9e4adly1fp34v3baonj20qo0zvjz0.jpg',
 //              width: 100,

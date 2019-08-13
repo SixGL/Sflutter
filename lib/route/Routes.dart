@@ -4,12 +4,14 @@ import 'RouteNamedPage.dart';
 import 'package:cs_flutter/tab/BottomNvTabViewPage.dart';
 import 'B_Page.dart';
 import 'C_Page.dart';
+import 'package:cs_flutter/drawer/DrawerItemPage.dart';
 
 final Map<String, Function> routes = {
   '/': (contxt, {arguments}) => TabBootomNvPage(index: arguments),
   "/routeNamedPage": (context, {arguments}) => RouteNamedPage(content: arguments),
   "/routeB_Page": (context) => B_Page(),
-  "/routeC_Page": (context) => C_Page()
+  "/routeC_Page": (context) => C_Page(),
+  "/routeDrawerItemPage": (context) => DrawerItemPage()
 };
 
 var onGenerateRoute = (RouteSettings settings) {
